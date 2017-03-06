@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- TODO change!! -->
+    <string name="iab_license">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlw0VE9fClfIBWHNUKxz48CsB+pzeug7Xsv9yK+hoxIHAAFA16lUsQdMXZPiKW+OuyrnIPO9y2MsbGm6TGiZyzDij8THs9aoNzUSf3tBlNAl0oH199vyn2m4eWhA9jdCbuZpu9s/Gihcp59rp/QGhsxgjYLvgwXLwq7jqLeFJaWkwV0JlqAwYpCRGh+7j0wL9VWaTZCEA3ZanrxNySZIXy+Uz1zfUUI2ZKV1Lu4XuTbgBPSOf6vO9OxgpBLkRUIJYrnnlSm+uB21LZ8HmXbJNPTTl0OhXtj8HMzhGxGWP/AZytL0COTbCsC7YAg/tf6IcaDVeKYFfyalJZdGrYMbPKQIDAQAB</string>
+
+    <string name="font_splash">Snickles.ttf</string>
+    <string name="font_default_bold">Cabin-Bold.ttf</string>
+    <string name="font_default">Cabin-Regular.ttf</string>
+    <string name="font_default_condensed">CabinCondensed-Regular.ttf</string>
+    <string name="font_default_condensed_bold">CabinCondensed-Bold.ttf</string>
+
+</resources>

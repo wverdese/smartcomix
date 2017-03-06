@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="card_max_width">520dp</dimen>
+    <dimen name="card_height">172dp</dimen>
+    <dimen name="card_margin">8dp</dimen>
+    <dimen name="card_padding">8dp</dimen>
+    <dimen name="card_icon">24dp</dimen>
+    <dimen name="card_price_height">24dp</dimen>
+    <dimen name="card_price_padding">8dp</dimen>
+    <dimen name="card_image_corner_radius">6dp</dimen>
+
+    <dimen name="card_recycler_padding_top">112dp</dimen>
+    <dimen name="card_recycler_padding_bottom">16dp</dimen>
+    <dimen name="card_recycler_padding_left">8dp</dimen>
+    <dimen name="card_recycler_padding_right">8dp</dimen>
+
+    <dimen name="card_text_size_small">14sp</dimen>
+    <dimen name="card_text_size_normal">16sp</dimen>
+    <dimen name="card_text_size_title">18sp</dimen>
+    <dimen name="card_text_size_search">18sp</dimen>
+
+    <dimen name="detail_header_height">221dp</dimen>
+    <dimen name="detail_progressbar_height">5dp</dimen>
+    <dimen name="detail_content_padding_top">11dp</dimen>
+    <dimen name="detail_content_padding_left">16dp</dimen>
+    <dimen name="detail_content_padding_right">16dp</dimen>
+    <dimen name="detail_content_padding_bottom">8dp</dimen>
+
+    <dimen name="borderless_button_text_size">11sp</dimen>
+    <dimen name="borderless_button_container_height">100dp</dimen>
+    <dimen name="borderless_button_container_max_width">400dp</dimen>
+    <dimen name="borderless_button_padding_top">16dp</dimen>
+    <dimen name="borderless_button_padding_drawable">-16dp</dimen>
+
+    <dimen name="detail_text_size_normal">16sp</dimen>
+    <dimen name="detail_text_size_title">20sp</dimen>
+
+    <dimen name="splash_text_size">18sp</dimen>
+    <dimen name="splash_logo_padding">40dp</dimen>
+
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipToPadding="false"
+        android:paddingTop="@dimen/card_recycler_padding_top"
+        android:paddingBottom="@dimen/card_recycler_padding_bottom"
+        android:paddingLeft="@dimen/card_recycler_padding_left"
+        android:paddingRight="@dimen/card_recycler_padding_right"
+        android:scrollbars="vertical"
+        android:scrollbarStyle="outsideOverlay"
+        android:visibility="gone" />
+
+    <ProgressBar
+        android:id="@+id/progress"
+        android:layout_marginTop="?attr/actionBarSize"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/text_hint"
+        android:layout_marginTop="?attr/actionBarSize"
+        android:textSize="@dimen/card_text_size_title"
+        android:textColor="@android:color/darker_gray"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/no_data"
+        android:visibility="gone"/>
+
+</FrameLayout>

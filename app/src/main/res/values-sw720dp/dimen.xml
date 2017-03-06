@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="card_max_width">600dp</dimen>
+    <dimen name="card_height">198dp</dimen>
+    <dimen name="card_image_corner_radius">12dp</dimen>
+
+    <dimen name="card_text_size_small">16sp</dimen>
+    <dimen name="card_text_size_normal">18sp</dimen>
+    <dimen name="card_text_size_title">20sp</dimen>
+
+    <dimen name="borderless_button_text_size">15sp</dimen>
+
+    <dimen name="detail_text_size_normal">20sp</dimen>
+    <dimen name="detail_text_size_title">24sp</dimen>
+
+    <dimen name="splash_text_size">26sp</dimen>
+
+</resources>

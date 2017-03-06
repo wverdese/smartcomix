@@ -1,0 +1,5 @@
+# server host
+SERVER_HOST=http://loremipsum.com
+# server credentials (only debug)
+SERVER_ADMIN_USER=loremipsum
+SERVER_ADMIN_PASSWORD=loremipsum

@@ -1,0 +1,5 @@
+# signing properties
+STORE_FILE=loremipsum.jks
+STORE_PASSWORD=loremipsum
+KEY_ALIAS=loremipsum
+KEY_PASSWORD=loremipsum

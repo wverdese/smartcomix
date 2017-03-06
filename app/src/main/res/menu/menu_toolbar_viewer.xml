@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_restart"
+        android:icon="@drawable/ic_replay"
+        android:title="@string/action_restart"
+        app:showAsAction="ifRoom" />
+
+
+    <item
+        android:id="@+id/action_goto_bookmark"
+        android:icon="@drawable/ic_goto_bookmark"
+        android:title="@string/action_goto_bookmark"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_bookmark"
+        android:icon="@drawable/ic_bookmark_outline"
+        android:title="@string/action_bookmark"
+        app:showAsAction="ifRoom" />
+
+</menu>

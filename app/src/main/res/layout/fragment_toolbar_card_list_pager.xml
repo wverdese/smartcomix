@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <View
+        android:id="@+id/colored_background_view"
+        android:layout_width="wrap_content"
+        android:layout_height="192dp" />
+
+    <FrameLayout
+        android:id="@+id/toolbar_fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <LinearLayout
+        android:id="@+id/toolbar_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <include
+            android:id="@+id/toolbar_pager"
+            layout="@layout/layout_toolbar"/>
+
+        <FrameLayout
+            android:id="@+id/fake_tab"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="8dp"
+            android:background="@drawable/shadow_top_bottom"/>
+
+    </LinearLayout>
+</FrameLayout>
